@@ -95,3 +95,12 @@ The trained model and scaler were saved using Joblib:
 ```text
 models/logistic_regression_balanced.pkl
 models/scaler.pkl
+
+## Streamlit App
+
+This project includes a Streamlit web app for predicting customer churn from user input.
+
+To run the app locally:
+
+```bash
+streamlit run app.py
