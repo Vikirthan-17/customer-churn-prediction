@@ -78,11 +78,11 @@ In a churn prediction problem, recall for churn customers is more important than
 
 ### Model Comparison
 
-![Model Comparison](images/model_comparison_churn_recall.png)
+![Model Comparison](images/churn_recall_comparison.png)
 
 ### Top 10 Important Features
 
-![Top Features](images/top_10_features_balanced_logistic.png)
+![Top Features](images/top_features.png)
 
 ## Final Model
 
